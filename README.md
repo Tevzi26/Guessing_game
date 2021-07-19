@@ -5,7 +5,7 @@ A simple number guessing game
 
 Clone this project.
 
-``git clone ``
+``git clone https://github.com/Tevzi26/Guessing_game.git``
 
 ## Usage
 
