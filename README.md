@@ -1,5 +1,5 @@
 # Guessing_game
-A simple number guessing game
+This is a simple number guessing game. It's my firs project in rust. I hope you like it.
 
 ## Installing
 
